@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649623892 source:c:\users\dell\documents\ed2\arvorerb\ex.c
+	<stdio.h>
+	<stdlib.h>
+
